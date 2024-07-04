@@ -1,0 +1,15 @@
+* { 
+   font-family: "Press Start 2P" !important; 
+}
+
+.rt-BaseMenuItem{
+    font-size: .7em;
+}
+
+.gridjs-wrapper{
+    border-radius: 0px !important;
+}
+
+.gridjs-pagination .gridjs-pages button{
+    border-radius: 0px !important;
+}
